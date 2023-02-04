@@ -17,7 +17,7 @@ export const Button = styled.button`
   font-size: 16px;
   line-height: 1.16;
   background-color: #89b8c8d1;
-  border-radius: 5px;
+  border-radius: 6px;
   &:first-letter {
     text-transform: uppercase;
   }
